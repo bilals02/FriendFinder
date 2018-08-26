@@ -26,8 +26,8 @@ Your htmlRoutes.js file should include two routes:
 
 
 # Screenshot
-![Home Page]
-(https://www.github.com/friendfinder/assets/screenshot_home.png)
+[Home Page]
+(https://github.com/bilals02/FriendFinder/blob/master/assets/screenshot_home.png)
 
-![Survey Page]
-(https://www.github.com/friendfinder/assets/screenshot_survey.png)
+[Survey Page]
+(https://github.com/bilals02/FriendFinder/blob/master/assets/screenshot_survey.png)
